@@ -7,5 +7,6 @@ public class Test {
         System.out.println("测试提交时加上配置文件");
         System.out.println("test");
         System.out.println("hot-fix");
+        System.out.println("冲突1");
     }
 }
